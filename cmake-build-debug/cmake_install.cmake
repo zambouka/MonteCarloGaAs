@@ -1,4 +1,4 @@
-# Install script for directory: /home/vanadiuz/MCGaAs
+# Install script for directory: /home/vanadiuz/MonteCarloGaAs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/vanadiuz/MCGaAs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

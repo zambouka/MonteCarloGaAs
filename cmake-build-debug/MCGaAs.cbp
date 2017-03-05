@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/vanadiuz/MCGaAs/cmake-build-debug"/>
+				<Option working_dir="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/vanadiuz/MCGaAs/cmake-build-debug"/>
+				<Option working_dir="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/vanadiuz/MCGaAs/cmake-build-debug"/>
+				<Option working_dir="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MCGaAs">
-				<Option output="/home/vanadiuz/MCGaAs/cmake-build-debug/MCGaAs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/vanadiuz/MCGaAs/cmake-build-debug"/>
+				<Option output="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/MCGaAs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MCGaAs"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MCGaAs"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MCGaAs/fast">
-				<Option output="/home/vanadiuz/MCGaAs/cmake-build-debug/MCGaAs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/vanadiuz/MCGaAs/cmake-build-debug"/>
+				<Option output="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/MCGaAs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vanadiuz/MonteCarloGaAs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,29 +77,29 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MCGaAs/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MCGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MCGaAs/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/vanadiuz/MCGaAs/electron.cpp">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/electron.cpp">
 			<Option target="MCGaAs"/>
 		</Unit>
-		<Unit filename="/home/vanadiuz/MCGaAs/electron.h">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/electron.h">
 			<Option target="MCGaAs"/>
 		</Unit>
-		<Unit filename="/home/vanadiuz/MCGaAs/main.cpp">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/main.cpp">
 			<Option target="MCGaAs"/>
 		</Unit>
-		<Unit filename="/home/vanadiuz/MCGaAs/mainArea.cpp">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/mainArea.cpp">
 			<Option target="MCGaAs"/>
 		</Unit>
-		<Unit filename="/home/vanadiuz/MCGaAs/mainArea.h">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/mainArea.h">
 			<Option target="MCGaAs"/>
 		</Unit>
-		<Unit filename="/home/vanadiuz/MCGaAs/CMakeLists.txt">
+		<Unit filename="/home/vanadiuz/MonteCarloGaAs/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

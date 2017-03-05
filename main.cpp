@@ -3,6 +3,10 @@
 #include "mainArea.h"
 #include <fstream>
 
+// /test master
+
+
+
 using namespace std;
 
 int main()

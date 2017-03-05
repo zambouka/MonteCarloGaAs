@@ -6,35 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/home/vanadiuz/MCGaAs/electron.cpp
+/home/vanadiuz/MonteCarloGaAs/electron.cpp
 iostream
 -
 electron.h
-/home/vanadiuz/MCGaAs/electron.h
+/home/vanadiuz/MonteCarloGaAs/electron.h
 
-/home/vanadiuz/MCGaAs/electron.h
+/home/vanadiuz/MonteCarloGaAs/electron.h
 
-/home/vanadiuz/MCGaAs/main.cpp
+/home/vanadiuz/MonteCarloGaAs/main.cpp
 iostream
 -
 electron.h
-/home/vanadiuz/MCGaAs/electron.h
+/home/vanadiuz/MonteCarloGaAs/electron.h
 mainArea.h
-/home/vanadiuz/MCGaAs/mainArea.h
+/home/vanadiuz/MonteCarloGaAs/mainArea.h
 fstream
 -
 
-/home/vanadiuz/MCGaAs/mainArea.cpp
+/home/vanadiuz/MonteCarloGaAs/mainArea.cpp
 iostream
 -
 mainArea.h
-/home/vanadiuz/MCGaAs/mainArea.h
+/home/vanadiuz/MonteCarloGaAs/mainArea.h
 random
 -
 iomanip
 -
 electron.h
-/home/vanadiuz/MCGaAs/electron.h
+/home/vanadiuz/MonteCarloGaAs/electron.h
 vector
 -
 math.h
@@ -42,7 +42,7 @@ math.h
 fstream
 -
 
-/home/vanadiuz/MCGaAs/mainArea.h
+/home/vanadiuz/MonteCarloGaAs/mainArea.h
 vector
 -
 
