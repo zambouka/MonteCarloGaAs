@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vanadiuz/MonteCarloGaAs/electron.cpp" "/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/electron.cpp.o"
-  "/home/vanadiuz/MonteCarloGaAs/main.cpp" "/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/main.cpp.o"
-  "/home/vanadiuz/MonteCarloGaAs/mainArea.cpp" "/home/vanadiuz/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/mainArea.cpp.o"
+  "D:/Xlam/MonteCarloGaAs/electron.cpp" "D:/Xlam/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/electron.cpp.obj"
+  "D:/Xlam/MonteCarloGaAs/main.cpp" "D:/Xlam/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/main.cpp.obj"
+  "D:/Xlam/MonteCarloGaAs/mainArea.cpp" "D:/Xlam/MonteCarloGaAs/cmake-build-debug/CMakeFiles/MCGaAs.dir/mainArea.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

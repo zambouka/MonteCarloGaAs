@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MCGaAs.dir/main.cpp.o"
-  "CMakeFiles/MCGaAs.dir/electron.cpp.o"
-  "CMakeFiles/MCGaAs.dir/mainArea.cpp.o"
+  "CMakeFiles/MCGaAs.dir/main.cpp.obj"
+  "CMakeFiles/MCGaAs.dir/electron.cpp.obj"
+  "CMakeFiles/MCGaAs.dir/mainArea.cpp.obj"
   "MCGaAs.pdb"
-  "MCGaAs"
+  "MCGaAs.exe"
+  "MCGaAs.exe.manifest"
+  "libMCGaAs.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
